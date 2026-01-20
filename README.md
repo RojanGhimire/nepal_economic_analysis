@@ -53,7 +53,9 @@ This is how the project is organized:
  ┃ ┗ remittance.csv<br>
  ┣ 📓 nepal_inflation_remittance_analysis.ipynb  <br>
  ┣ 📈 charts/                 <br>
- ┃ ┣ line_plot.png<br>
+ ┃ ┣ Dual_Axis_plot.png<br>
  ┃ ┗ scatter_plot.png<br>
+ ┃ ┣ inflation_trend.png<br>
+ ┃ ┗ remittance_trend.png<br>
  ┗ 📄 README.md               <br>
 
