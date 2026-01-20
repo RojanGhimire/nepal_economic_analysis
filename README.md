@@ -47,13 +47,13 @@ All datasets are publicly available and processed for Nepal only.
 
 This is how the project is organized:
 
-📦 nepal-economic-analysis
- ┣ 📊 data/                   # Raw datasets (inflation & remittance)
- ┃ ┣ inflation.csv
- ┃ ┗ remittance.csv
- ┣ 📓 nepal_inflation_remittance_analysis.ipynb  # Main analysis notebook
- ┣ 📈 charts/                 # Visualizations saved as images
- ┃ ┣ line_plot.png
- ┃ ┗ scatter_plot.png
- ┗ 📄 README.md               # Project overview & insights
+📦 nepal-economic-analysis <br>
+ ┣ 📊 data/                  # Raw datasets (inflation & remittance)<br>
+ ┃ ┣ inflation.csv<br>
+ ┃ ┗ remittance.csv<br>
+ ┣ 📓 nepal_inflation_remittance_analysis.ipynb  # Main analysis notebook<br>
+ ┣ 📈 charts/                 # Visualizations saved as images<br>
+ ┃ ┣ line_plot.png<br>
+ ┃ ┗ scatter_plot.png<br>
+ ┗ 📄 README.md               # Project overview & insights<br>
 
